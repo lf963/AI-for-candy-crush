@@ -30,8 +30,8 @@ The file ```input.txt``` is our input file and its format is:
 We have to output our result as ```output.txt``` whose format is:
 ```
 1. First line: your selected move, represented as two characters: 
-****A letter**** from A to Z representing the column number (where A is the leftmost column, B is the next one to the right, etc), and
-**A number** from 1 to 26 representing the row number (where 1 is the top row, 2 is the row below it, etc).
+A letter from A to Z representing the column number (where A is the leftmost column, B is the next one to the right, etc), and
+A number from 1 to 26 representing the row number (where 1 is the top row, 2 is the row below it, etc).
 
 2. Next n lines: the n x n board just after your move and after gravity has been applied to make any fruits fall into holes created by your move taking away some fruits.
 ```
